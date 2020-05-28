@@ -2,7 +2,7 @@
 
 ![logo](assets/images/logo.png)
 
-# Multi-Coin Crypto-Payment Gateway <small>1.0.2</small>
+# Multi-Coin Crypto-Payment Gateway <small>1.0.3</small>
 
 > Find anything you need about Multi-Coin Script!.
 
